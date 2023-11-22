@@ -1,2 +1,1 @@
-# LethalCompanyTemplate
-A template for a BepInEx 5 Plugin, using the correct .csproj configuration for Lethal Company modding
+Remove ping sound from Lethal Company when right clicking
